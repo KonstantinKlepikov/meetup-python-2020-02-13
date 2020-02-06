@@ -15,3 +15,15 @@ __pycache__
 logs/*
 
 tf_logs/*
+
+input/**
+!input/.gitkeep
+
+output/**
+!output/.gitkeep
+
+kernels/images/exitimg/*.png
+kernels/corelib
+
+dumped_data/**
+!dumped_data/.gitkeep
