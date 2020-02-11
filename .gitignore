@@ -21,6 +21,7 @@ input/**
 
 output/**
 !output/.gitkeep
+kernels/demo.ipynb
 
 kernels/images/exitimg/*.png
 kernels/corelib
